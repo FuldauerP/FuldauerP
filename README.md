@@ -1,2 +1,4 @@
-# proyecto para Cliente en DOTT BAIRE, ARQUITECTO GASTRONOMICO
-#se creo en hostinger prometheusproyect.tech
+Clinte DOOT BAIRES
+ARQUITECTURA GATRONOMIOCA
+PAGINA WEB CREADA PROMETHEUSPROYECT.TECH
+https://app.netlify.com/teams/fuldauerp/overview
