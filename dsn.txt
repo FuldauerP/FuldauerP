@@ -1,4 +1,0 @@
-aragorn.ns.cloudflare.com
-diana.ns.cloudflare.com
-ns1.dns-parking.com
-ns2.dns-parking.com
